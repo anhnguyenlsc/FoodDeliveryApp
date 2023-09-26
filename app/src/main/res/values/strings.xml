@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FudImme</string>
+    <string-array name="food_array">
+        <item>bún bò</item>
+        <item>bánh canh</item>
+        <item>hamburger</item>
+        <item>trà sữa</item>
+        <item>cơm sườn</item>
+        <item>bún riêu</item>
+    </string-array>
+</resources>

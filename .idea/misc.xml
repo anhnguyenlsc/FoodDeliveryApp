@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FoodDelivery_App/app/src/main/res/layout/activity_input_password.xml" value="0.10099637681159421" />
+        <entry key="..\:/FoodDelivery_App/app/src/main/res/layout/activity_input_phonenumber.xml" value="0.12" />
+        <entry key="..\:/FoodDelivery_App/app/src/main/res/layout/activity_splashscreen_intro.xml" value="0.1539855072463768" />
+        <entry key="..\:/FoodDelivery_app/FoodDelivery_app/app/src/main/res/layout/activity_homepage.xml" value="0.14130434782608695" />
+        <entry key="..\:/FoodDelivery_app/FoodDelivery_app/app/src/main/res/layout/activity_input_password.xml" value="0.1796875" />
+        <entry key="..\:/FoodDelivery_app/FoodDelivery_app/app/src/main/res/layout/activity_price_page.xml" value="0.14130434782608695" />
+        <entry key="..\:/FoodDelivery_app/FoodDelivery_app/app/src/main/res/layout/layout_price.xml" value="0.14130434782608695" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/drawable/border_rad.xml" value="0.161" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/drawable/end_home.xml" value="0.161" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.161" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/drawable/ic_baseline_check_circle_24.xml" value="0.161" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.161" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.161" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/drawable/search_cus.xml" value="0.161" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/drawable/title_home.xml" value="0.161" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/layout/activity_homepage.xml" value="0.16666666666666666" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/layout/activity_input_password.xml" value="0.25" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/layout/activity_input_phonenumber.xml" value="0.33" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/layout/activity_price_page.xml" value="0.22" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/layout/activity_splashscreen_intro.xml" value="0.25" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/layout/activity_store_page.xml" value="0.33" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/layout/item_hamburger.xml" value="0.5" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/layout/layout_category.xml" value="0.18206521739130435" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/layout/layout_flash.xml" value="0.18206521739130435" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/layout/layout_foods.xml" value="0.18206521739130435" />
+        <entry key="..\:/FoodDelivery_app/app/src/main/res/layout/layout_price.xml" value="0.33" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/drawable-v24/cart_cus.xml" value="0.101" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1115" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/drawable/border_orange.xml" value="0.183" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/drawable/border_rad.xml" value="0.101" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/drawable/ic_baseline_add_box_24.xml" value="0.1" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.1265" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/drawable/ic_baseline_house_24.xml" value="0.1" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/drawable/ic_baseline_indeterminate_check_box_24.xml" value="0.1" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.1" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.1" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1115" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_account_page.xml" value="0.16666666666666666" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_an_vat_page.xml" value="0.2247191011235955" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_anvat_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_bun_bo_page.xml" value="0.16145833333333334" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_cart.xml" value="0.23333333333333334" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_cart_history.xml" value="0.1" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_cart_page.xml" value="0.22" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_drink_page.xml" value="0.22" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_fast_food_page.xml" value="0.22" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_favorite_page.xml" value="0.16666666666666666" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_food_detail.xml" value="0.14221014492753623" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_healthy_page.xml" value="0.14402173913043478" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_homepage.xml" value="0.3333333333333333" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_input_password.xml" value="0.16304347826086957" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_input_phonenumber.xml" value="0.16304347826086957" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_inter_page.xml" value="0.22" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_milktea_page.xml" value="0.1" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_notify_sucess.xml" value="0.22" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_order_page.xml" value="0.3333333333333333" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_pho_page.xml" value="0.22" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_price_page.xml" value="0.13360507246376813" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_rice_page.xml" value="0.22" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_sea_food_page.xml" value="0.16666666666666666" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_splashscreen_intro.xml" value="0.14447463768115942" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/activity_store_page.xml" value="0.22" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/border_orange.xml" value="0.1644021739130435" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/item_hamburger.xml" value="0.15760869565217392" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/layout_anvat.xml" value="0.16666666666666666" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/layout_cart.xml" value="0.22" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/layout_category.xml" value="0.15760869565217392" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/layout_drink.xml" value="0.30177514792899407" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/layout_favorite.xml" value="0.3333333333333333" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/layout_flash.xml" value="0.1490036231884058" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/layout_foods.xml" value="0.1" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/layout_order.xml" value="0.22" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/layout_orderpage.xml" value="0.16666666666666666" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/layout_price.xml" value="0.1490036231884058" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/layout/layout_rice.xml" value="0.3333333333333333" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/menu/menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/menu/menu_bot.xml" value="0.17552083333333332" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/menu/menu_bottom_nav.xml" value="0.22" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/FudDeliUseIntent/FoodDelivery_app/app/src/main/res/mipmap-mdpi/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Test/FoodDelivery_app/app/src/main/res/layout/activity_homepage.xml" value="0.1" />
+        <entry key="..\:/Test/FoodDelivery_app/app/src/main/res/layout/layout_category.xml" value="0.17552083333333332" />
+        <entry key="..\:/Test/FoodDelivery_app/app/src/main/res/layout/layout_flash.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

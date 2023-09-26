@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/fudimmedeli"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FoodDelivery_app"
+        tools:targetApi="31">
+        <activity
+            android:name=".BunBoPage"
+            android:exported="false" />
+        <activity
+            android:name=".Notify_Sucess"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".CartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OrderPage"
+            android:exported="false" />
+        <activity
+            android:name=".AccountPage"
+            android:exported="true" />
+        <activity
+            android:name=".FavoritePage"
+            android:exported="false" />
+        <activity
+            android:name=".DrinkPage"
+            android:exported="false" />
+        <activity
+            android:name=".InterPage"
+            android:exported="false" />
+        <activity
+            android:name=".PhoPage"
+            android:exported="false" />
+        <activity
+            android:name=".SeaFoodPage"
+            android:exported="false" />
+        <activity
+            android:name=".HealthyPage"
+            android:exported="false" />
+        <activity
+            android:name=".FastFoodPage"
+            android:exported="false" />
+        <activity
+            android:name=".RicePage"
+            android:exported="false" />
+        <activity
+            android:name=".AnVatPage"
+            android:exported="false" />
+        <activity
+            android:name=".StorePage"
+            android:exported="true" />
+        <activity
+            android:name=".Homepage"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Input_phonenumber"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".Input_password"
+            android:exported="false" />
+        <activity
+            android:name=".Splashscreen_intro"
+            android:exported="true">
+
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "227176953211",
+    "firebase_url": "https://fooddeliwcart-default-rtdb.firebaseio.com",
+    "project_id": "fooddeliwcart",
+    "storage_bucket": "fooddeliwcart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227176953211:android:418afec723f91759df39de",
+        "android_client_info": {
+          "package_name": "edu.csc.fooddelivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227176953211-9f13ks8bgbl64gr959v2juqfb3s0sqnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAom1NPpSNvVaTIIhqPYfPCL7XS_ouuwWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227176953211-9f13ks8bgbl64gr959v2juqfb3s0sqnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
